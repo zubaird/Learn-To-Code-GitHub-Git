@@ -255,7 +255,7 @@ If you prefer to do all of this on a Graphical User Interface (GUI), check out: 
 - 97% Job Placement Rate within six months
 - Average starting salary: $77,000 per annum
 - Scholarships available for those who qualify
-- Learn more at http://galvanize.com/courses/fullstack/
+- Learn more at https://www.galvanize.com/austin/web-development
 
 **About the Author**
 
