@@ -240,6 +240,10 @@ Optional: delete the “readme-edits” branch
 
 ## YOU DID IT! YOU ARE NOW A SOCIAL CODER!
 
+Window users only - Now you can see all the changes that have been made on this branch in a clean UI
+```
+$ gitk // make sure you are in the branch you merged branch
+
 #### Play around in the sandbox a bit more
 - Fork and clone some more open-source Github repos
 - Make a pull request (what is this?)
